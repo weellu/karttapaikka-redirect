@@ -1,9 +1,9 @@
 // ==UserScript==
 // @id             www.geocaching.com-4010d69e-c851-413d-baee-0c8a36204a48
-// @name           Fix Karttapaikka Map Links and add new maps
+// @name           Fix Karttapaikka map links and add new maps
 // @downloadURL    https://github.com/weellu/gs-script/raw/master/fix-karttapaikka-links.js
 // @updateURL      https://github.com/weellu/gs-script/raw/master/fix-karttapaikka-links.meta.js
-// @version        1.2
+// @version        1.3
 // @namespace      com.6123tampere
 // @author         Tommi Rautava, Veli-Pekka Eloranta
 // @license        MIT License
@@ -14,5 +14,7 @@
 // @include        https://www.geocaching.com/seek/cache_details.aspx*
 // @include        http://www.geocaching.com/hide/wptlist.aspx?*
 // @include        https://www.geocaching.com/hide/wptlist.aspx?*
+// @include        https://www.geocaching.com/seek/wpt.aspx?*
+// @include        http://www.geocaching.com/seek/wpt.aspx?*
 // @run-at         document-end
 // ==/UserScript==
